@@ -1,7 +1,5 @@
 # this creates a module from worlds and iterates it into a compendium.
 # put this in /Data/ directory and run it with python3 ripData.py
-# data comes in as dict
-# extract each line by and sort it into the right database
 
 # go through data/worlds and extract the databases and files to generate a compendium mod
 import os
